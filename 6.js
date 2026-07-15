@@ -2,19 +2,19 @@ var a = 20
 
 if (a > 10 ){
 
-    console.log(" grde c ")
+    console.log(" C grade ")
 
 
 }
 
 else if (a > 20 ){
-    connsole.loga(" grade b")
+    connsole.loga("B grade ")
 
 
 }
 
 else if (a > 30 ) {
-    conslole.log(" is aa grade ")
+    conslole.log(" A grade ")
 
 
 }
@@ -22,5 +22,5 @@ else if (a > 30 ) {
 
 else {
 
-    console.log("' is the o grade ")
+    console.log("O grade ")
 }
